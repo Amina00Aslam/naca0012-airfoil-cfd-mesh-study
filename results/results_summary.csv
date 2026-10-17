@@ -1,0 +1,13 @@
+mesh_family,mesh,nodes,low_mach_corr,CL,CD,CD_vs_NASA_ref_percent,log10_density_residual
+Gmsh hybrid,surface cell 0.01,14119,YES,-0.003157,0.011507,40.5,-7.77
+Gmsh hybrid,surface cell 0.01,14119,NO,0.007387,0.030641,274.1,-7.58
+Gmsh hybrid,surface cell 0.005,23008,YES,-0.004441,0.009999,22.1,-9.23
+Gmsh hybrid,surface cell 0.005,23008,NO,-0.005522,0.016575,102.4,-8.37
+Gmsh hybrid,surface cell 0.0025,41090,YES,-0.002116,0.009213,12.5,-9.32
+Gmsh hybrid,surface cell 0.0025,41090,NO,-0.000805,0.010414,27.2,-9.04
+Gmsh hybrid,surface cell 0.00125,77178,YES,-0.003954,0.009158,11.8,-9.33
+Gmsh hybrid,surface cell 0.00125,77176,NO,-0.00606,0.009283,13.3,-8.76
+NASA structured,225x65,14576,YES,-2e-06,0.008521,4.0,-8.56
+NASA structured,225x65,14576,NO,-3e-06,0.007557,-7.7,-8.55
+NASA structured,449x129,57824,YES,-1e-05,0.00941,14.9,-9.19
+NASA structured,449x129,57824,NO,-1e-05,0.00830,1.4,-9.21

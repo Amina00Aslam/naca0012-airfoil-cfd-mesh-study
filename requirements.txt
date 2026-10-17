@@ -1,0 +1,5 @@
+# Python packages used by naca0012_study.py
+# (SU2 itself is downloaded automatically by the script; it is not a pip package)
+gmsh==4.15.2
+numpy
+matplotlib

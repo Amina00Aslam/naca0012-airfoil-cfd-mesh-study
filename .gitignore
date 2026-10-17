@@ -1,0 +1,22 @@
+# files the script generates while running
+*.su2
+su2/
+su2.zip
+restart.dat
+vol_solution.*
+surface.csv
+history.csv
+su2_run.log
+rans.cfg
+mesh.png
+convergence.png
+results_log.csv
+nasa_grid_results.csv
+# working folders from test runs
+diag/
+test*/
+nasa*/
+finest_restart/
+# python / notebook clutter
+__pycache__/
+.ipynb_checkpoints/
